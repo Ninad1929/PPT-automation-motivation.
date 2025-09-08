@@ -55,6 +55,7 @@ Instead of manually sorting and creating slides, this script leverages AI (CLIP 
   bash
   Copy code
   python start.py
+  
 6.Check the results:
 
   Categorized images → inside Final_images/
